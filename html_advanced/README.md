@@ -13,4 +13,4 @@ Welcome to the Advanced side of HTML in the ALU Web Development Repository. In t
 
 Let's get started!
 
-![Web Development HTML](https://i.postimg.cc/GmWfNHR1/image.png)
+<img alt="Web Development HTML" src="https://i.postimg.cc/GmWfNHR1/image.png">
